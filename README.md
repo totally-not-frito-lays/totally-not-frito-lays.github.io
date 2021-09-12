@@ -7,6 +7,7 @@ This site is still a work in progress but here's a little about me now :)
 
 ## "I'm just a simple man trying to make my way in the universe" 🌌
 ### Interesting sectors I'd like to dive into 
+
 | Sector | Backstory |
 | :--- | :--- |
 |🧮 Education | Raised in a small town, I want turn the tides for a smarter future |
@@ -31,17 +32,19 @@ This site is still a work in progress but here's a little about me now :)
 
 
 ### What I've got on my tool belt
+
 | Tool | Experience |
 | :--- | :--- |
-|📽️ Languages I've built a decent project with | Vanilla JavaScript, Java, C++ [^1] |
+| 📽️ Languages I've built a decent project with | Vanilla JavaScript, Java, C++ [^1] |
 | 🔤 Languages I've experimented with | Python, Bash, GodotScript, LATEX, MatLab |
 | 🖥️ Technologies I use regularly | Linux, Blender, Git, RawTherapee, Notion |
 | 👨‍🎓 Technical Classes | Advanced Data Structures, Object Oriented Programming, Theory of Computation, Algorithm Design and Analysis, Linear Algebra, Calculus |
 | 🎨 Interest Classes | Cognitive Consequences of Technology, Design of Everyday Things, Teaching Computational Thinking for Everyone |
 
-[^1]: *Note: Java and C++ projects are school projects so to avoid Academic Integrity violations I have not shared them on GitHub* 
+[^1]: Note: *Java and C++ projects are school projects so to avoid Academic Integrity violations I have not shared them on GitHub*
 
 ### What I'm learning
+
 | What | How |
 | :--- | :--- |
 | 🍼 Libraries I'm learning | [Blender API](https://docs.blender.org/api/current/info_overview.html), [Three.JS](https://threejs.org/), [Anime.JS](https://animejs.com/) |
