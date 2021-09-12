@@ -18,6 +18,8 @@ This site is still a work in progress but here's a little about me now :)
 |📹 Computer Vision | I'm an amateur photographer and want to dive into helping computers see the world |
 |🎥 Entertainment | *"One of the most important things in people's lives. Without it, [people] might go off the deep end" - Stan Lee*
 
+---
+
 ### Here's some stuff I'm doing now to avoid being a couch potato
 - 🏛️ finding a degree in **Computer Science Engineering** at **UC San Diego**
 
@@ -30,6 +32,7 @@ This site is still a work in progress but here's a little about me now :)
 | 📷 Shooting first then asking questions later | [Flickr](https://www.flickr.com/photos/137664649@N02) -- [(pending)]() |
 | 🎨 Doodles and things | [Instagram](https://www.instagram.com/slightly_stale_scraps/) |
 
+---
 
 ### What I've got on my tool belt
 
@@ -43,9 +46,13 @@ This site is still a work in progress but here's a little about me now :)
 
 [^1]: Note: *Java and C++ projects are school projects so to avoid Academic Integrity violations I have not shared them on GitHub*
 
+---
+
 ### What I'm learning
 
 | What | How |
 | :--- | :--- |
 | 🍼 Libraries I'm learning | [Blender API](https://docs.blender.org/api/current/info_overview.html), [Three.JS](https://threejs.org/), [Anime.JS](https://animejs.com/) |
 | 🏗️ Technologies I'm learning | [Godot](https://godotengine.org/), Zapier and Integrations, Social Media Bots, 3d Printing and CAD |
+
+---
