@@ -8,7 +8,7 @@ This site is still a work in progress but here's a little about me now :)
 ## "I'm just a simple man trying to make my way in the universe" 🌌
 ### Interesting sectors I'd like to dive into 
 | Sector | Backstory |
-| --- | --- |
+| :--- | :--- |
 |🧮 Education | Raised in a small town, I want turn the tides for a smarter future |
 |🏕️ Outdoors | I'm a proud Eagle Scout and honestly, I want the outdoors to stay pristine |
 |🚴‍♂️ Fitness | I've raced mountain bikes and cross country a combined 8 years, I want to help people stay healthy |
@@ -21,7 +21,7 @@ This site is still a work in progress but here's a little about me now :)
 - 🏛️ finding a degree in **Computer Science Engineering** at **UC San Diego**
 
 | Project | Links |
-| --- | --- |
+| :--- | :--- |
 | 💻 Directing TritonHacks Hackathon | [Website](https://www.tritonhacks.org/) -- [GitHub Project](https://github.com/tritonhacks) -- [DevPost '21](https://tritonhacks-2021.devpost.com/?ref_feature=challenge&ref_medium=discover) |
 | 🥅 2021 Goals -> Publish portfolio website | [Demo](https://totally-not-frito-lays.github.io/) -- [Repo](https://github.com/totally-not-frito-lays/totally-not-frito-lays.github.io) |
 | 🍩 Baking up some Blender'd Donuts | [Demo](https://totally-not-frito-lays.github.io/Donut/) -- [Repo](https://github.com/totally-not-frito-lays/Donut) |
@@ -31,13 +31,18 @@ This site is still a work in progress but here's a little about me now :)
 
 
 ### What I've got on my tool belt
-- 📽️ Languages I've built a decent project with -- Vanilla JavaScript, Java, C++
-   - *Note: Java and C++ projects are school projects so to avoid Academic Integrity violations I have not shared them on GitHub*
-- 🔤 Languages I've experimented with -- Python, Bash, GodotScript, LATEX, MatLab
-- 🖥️ Technologies I use regularly -- Linux, Blender, Git, RawTherapee, Notion
-- 👨‍🎓 Technical Classes -- Advanced Data Structures, Object Oriented Programming, Theory of Computation, Algorithm Design and Analysis, Linear Algebra, Calculus
-- 🎨 Interest Classes -- Cognitive Consequences of Technology, Design of Everyday Things, Teaching Computational Thinking for Everyone
+| Tool | Experience |
+| :--- | :--- |
+|📽️ Languages I've built a decent project with | Vanilla JavaScript, Java, C++ [^1] |
+| 🔤 Languages I've experimented with | Python, Bash, GodotScript, LATEX, MatLab |
+| 🖥️ Technologies I use regularly | Linux, Blender, Git, RawTherapee, Notion |
+| 👨‍🎓 Technical Classes | Advanced Data Structures, Object Oriented Programming, Theory of Computation, Algorithm Design and Analysis, Linear Algebra, Calculus |
+| 🎨 Interest Classes | Cognitive Consequences of Technology, Design of Everyday Things, Teaching Computational Thinking for Everyone |
+
+[^1]: *Note: Java and C++ projects are school projects so to avoid Academic Integrity violations I have not shared them on GitHub* 
 
 ### What I'm learning
-- 🍼 Libraries I'm learning -- [Blender API](https://docs.blender.org/api/current/info_overview.html), [Three.JS](https://threejs.org/), [Anime.JS](https://animejs.com/)
-- 🏗️ Technologies I'm learning -- [Godot](https://godotengine.org/), Zapier and Integrations, Social Media Bots, 3d Printing and CAD
+| What | How |
+| :--- | :--- |
+| 🍼 Libraries I'm learning | [Blender API](https://docs.blender.org/api/current/info_overview.html), [Three.JS](https://threejs.org/), [Anime.JS](https://animejs.com/) |
+| 🏗️ Technologies I'm learning | [Godot](https://godotengine.org/), Zapier and Integrations, Social Media Bots, 3d Printing and CAD |
