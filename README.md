@@ -7,6 +7,8 @@ This site is still a work in progress but here's a little about me now :)
 
 ## "I'm just a simple man trying to make my way in the universe" 🌌
 ### Interesting sectors I'd like to dive into 
+| Sector | Backstory |
+| --- | --- |
 |🧮 Education | Raised in a small town, I want turn the tides for a smarter future |
 |🏕️ Outdoors | I'm a proud Eagle Scout and honestly, I want the outdoors to stay pristine |
 |🚴‍♂️ Fitness | I've raced mountain bikes and cross country a combined 8 years, I want to help people stay healthy |
