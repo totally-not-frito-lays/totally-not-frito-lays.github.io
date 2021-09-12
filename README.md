@@ -7,11 +7,13 @@ This site is still a work in progress but here's a little about me now :)
 
 ## "I'm just a simple man trying to make my way in the universe" 🌌
 ### Interesting sectors I'd like to dive into 
-- 🧮 Education -- Raised in a small town, I want turn the tides for a smarter future
-- 🏕️ Outdoors -- I'm a proud Eagle Scout and honestly, I want the outdoors to stay pristine
-- 🚴‍♂️ Fitness -- I raced mountain bikes and cross country a combined 8 years, I want to help people stay healthy 
-- 🤖 Robotics -- I founded and mentored a FTC Robotics Team [(see my 2016 recap)](https://youtu.be/svJWyWrwLh4), I want to help robots find their place in the world (computer vision)
-- 🎥 Entertainment -- *"One of the most important things in people's lives. Without it, [people] might go off the deep end" - Stan Lee*
+|🧮 Education | Raised in a small town, I want turn the tides for a smarter future |
+|🏕️ Outdoors | I'm a proud Eagle Scout and honestly, I want the outdoors to stay pristine |
+|🚴‍♂️ Fitness | I've raced mountain bikes and cross country a combined 8 years, I want to help people stay healthy |
+|📱 Social Media | I think there's a great deal of unethical design here, I want to put the human back in human-centered design |
+|🤖 Robotics | I founded and mentored a FTC Robotics Team [(see my 2016 recap)](https://youtu.be/svJWyWrwLh4), I want to help robots find their place in the world |
+|📹 Computer Vision | I'm an amateur photographer and want to dive into helping computers see the world |
+|🎥 Entertainment | *"One of the most important things in people's lives. Without it, [people] might go off the deep end" - Stan Lee*
 
 ### Here's some stuff I'm doing now to avoid being a couch potato
 - 🏛️ finding a degree in **Computer Science Engineering** at **UC San Diego**
