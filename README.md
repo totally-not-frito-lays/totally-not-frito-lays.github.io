@@ -56,3 +56,7 @@ This site is still a work in progress but here's a little about me now :)
 | 🏗️ Technologies I'm learning | [Godot](https://godotengine.org/), Zapier and Integrations, Social Media Bots, 3d Printing and CAD |
 
 ---
+
+### Here's what I'm up to these days :P
+
+<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/12527336/activity-summary/bad15b519d6a164166cf60734929737423c873e9'></iframe>
