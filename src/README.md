@@ -1,3 +1,9 @@
+---
+layout: base.liquid
+title: resume
+---
+
+
 # Hello there! I’m Ryan Lay otherwise known as *totally-not-frito-lays*
 [Check out my Resume!](https://docs.google.com/document/d/19y4DYlpCbBB4MznEPp1gzgv9rbn6oTp7/edit?usp=sharing&ouid=104886245357892407782&rtpof=true&sd=true)
 
