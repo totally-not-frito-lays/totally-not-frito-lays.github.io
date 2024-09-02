@@ -1,16 +1,14 @@
 {
-  "name": "totally-not-frito-lays.github.io",
+  "name": "totally-not-frito-lays",
   "version": "1.0.0",
-  "description": "[Check out my Resume!](https://docs.google.com/document/d/19y4DYlpCbBB4MznEPp1gzgv9rbn6oTp7/edit?usp=sharing&ouid=104886245357892407782&rtpof=true&sd=true)",
   "main": "index.js",
-  "scripts": {
-    "dev": "npx @11ty/eleventy --serve",
-    "build": "npx @11ty/eleventy"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
-    "@11ty/eleventy": "^2.0.1"
+    "@11ty/eleventy": "^2.0.1",
+    "axios": "^1.7.7"
+  },
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "dev": "npx @11ty/eleventy --serve --formats=md,png,jpg,svg"
   }
 }
