@@ -41,29 +41,31 @@ body {
 	color: rgb(var(--gray-dark));
 	font-size: 20px;
 	line-height: 1.7;
-	/* overflow: hidden; */
+	overflow: hidden;
 }
 .container {
 	display: flex;
-	margin-top: 60px; /* Adjust this value based on the height of your header */
+}
+main > * {
+  flex: 1 1 50%;
+  box-sizing: border-box;
 }
 main {
 	width: 720px;
 	max-width: calc(100% - 2em);
-	margin: auto;
 	padding: 1em;
 	flex-grow: 1;
 	display: flex;
-	flex-direction: column;
-	height: calc(100vh - 60px); /* Adjust this value based on the height of your header */
+	flex-wrap: wrap;
+	height: calc(100vh - 60px);
 }
-main > .top {
-	height: calc(50vh - 10px); /* Adjust height to account for gutter */
+/* main > .top {
+	height: calc(50vh - 10px);
 	position: sticky;
 	top: 0;
-	background: white; /* Ensure background color matches the design */
+	background: white;
 	overflow: hidden;
-	margin-bottom: 10px; /* Add gutter */
+	margin-bottom: 10px;
 }
 main > .top img {
 	object-fit: fill;
@@ -71,14 +73,9 @@ main > .top img {
 main > .bottom {
 	flex: 1 1 auto;
 	overflow-y: auto;
-	height: calc(50vh - 10px); /* Adjust height to account for gutter */
-}
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+	height: calc(50vh - 10px);
+} */
+h1,h2,h3,h4,h5,h6 {
 	margin: 0 0 0.5rem 0;
 	color: rgb(var(--black));
 	line-height: 1.2;
@@ -151,33 +148,11 @@ hr {
 	border: none;
 	border-top: 1px solid rgb(var(--gray-light));
 }
-@media (max-width: 720px) {
-	body {
-		font-size: 18px;
-	}
-	main {
-		padding: 1em;
-	}
-}
-@media (max-width: 768px) {
+@media (max-width: 1200px) {
 	.container {
 		flex-direction: column;
 	}
-}
-.sr-only {
-	border: 0;
-	padding: 0;
-	margin: 0;
-	position: absolute !important;
-	height: 1px;
-	width: 1px;
-	overflow: hidden;
-	/* IE6, IE7 - a 0 height clip, off to the bottom right of the visible 1px box */
-	clip: rect(1px 1px 1px 1px);
-	/* maybe deprecated but we need to support legacy browsers */
-	clip: rect(1px, 1px, 1px, 1px);
-	/* modern browsers, clip-path works inwards from each corner */
-	clip-path: inset(50%);
-	/* added line to stop words getting smushed together (as they go onto separate lines and some screen readers do not understand line feeds as a space */
-	white-space: nowrap;
+  .container > * {
+    flex: 1 1 100%; /* Each item takes up 100% of the container's width on smaller screens */
+  }
 }
