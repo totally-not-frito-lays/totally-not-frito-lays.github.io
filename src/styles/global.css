@@ -41,9 +41,11 @@ body {
 	color: rgb(var(--gray-dark));
 	font-size: 20px;
 	line-height: 1.7;
+	/* overflow: hidden; */
 }
 .container {
 	display: flex;
+	margin-top: 60px; /* Adjust this value based on the height of your header */
 }
 main {
 	width: 720px;
@@ -51,6 +53,25 @@ main {
 	margin: auto;
 	padding: 1em;
 	flex-grow: 1;
+	display: flex;
+	flex-direction: column;
+	height: calc(100vh - 60px); /* Adjust this value based on the height of your header */
+}
+main > .top {
+	height: calc(50vh - 10px); /* Adjust height to account for gutter */
+	position: sticky;
+	top: 0;
+	background: white; /* Ensure background color matches the design */
+	overflow: hidden;
+	margin-bottom: 10px; /* Add gutter */
+}
+main > .top img {
+	object-fit: fill;
+}
+main > .bottom {
+	flex: 1 1 auto;
+	overflow-y: auto;
+	height: calc(50vh - 10px); /* Adjust height to account for gutter */
 }
 h1,
 h2,
