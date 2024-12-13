@@ -1,0 +1,28 @@
+---
+import SidebarLink from './SidebarLink.astro';
+import { SITE_TITLE } from '../consts';
+import '../styles/sidebar.css';
+---
+
+<aside class="sidebar-open" id="sidebar">
+  <h2>{SITE_TITLE}</h2>
+  <nav>
+    <SidebarLink href="/">Home</SidebarLink>
+    <SidebarLink href="/blog">Blog</SidebarLink>
+    <SidebarLink href="/about">About</SidebarLink>
+  </nav>
+</aside>
+
+<script>
+  const sidebarElement = document.getElementById('sidebar');
+  if (sidebarElement) {
+    sidebarElement.addEventListener('click', sidebarOnClick);
+  }
+
+  function sidebarOnClick() {
+    const sidebar = document.querySelector('.sidebar-open');
+    if (sidebar) {
+      sidebar.classList.replace('sidebar-open', 'sidebar-closed');
+    }
+  }
+</script>
