@@ -12,6 +12,7 @@
 
   /** @type {Props} */
   const { primary = false, backgroundColor, size = 'medium', label, onClick } = $props();
+  
 </script>
 
 <button
